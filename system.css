@@ -1,0 +1,32 @@
+html{
+    background-color:blanchedalmond;
+}
+img{
+    height: 400px;
+    width: 700px;
+    border: 5px solid black;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    text-align:center;
+    color:lightcoral ;
+    font-family: 'Libre Baskerville', serif;
+}
+.girl{
+    height: 200px;
+    width: 100px;
+}
+
+p{
+    font-size: medium;
+    margin-left: 25%;
+    margin-right:20% ;
+}
